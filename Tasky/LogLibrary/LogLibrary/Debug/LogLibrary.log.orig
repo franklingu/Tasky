@@ -1,0 +1,18 @@
+﻿Build started 10/16/2013 1:32:00 PM.
+     1>Project "D:\Mercurial\cs2103-f09-2c\TaskyV0.1\LogLibrary\LogLibrary\LogLibrary.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LogLibrary.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Log.cpp
+         Log.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"D:\Mercurial\cs2103-f09-2c\TaskyV0.1\Debug\LogLibrary.lib" /NOLOGO Debug\Log.obj
+         LogLibrary.vcxproj -> D:\Mercurial\cs2103-f09-2c\TaskyV0.1\Debug\LogLibrary.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\LogLibrary.unsuccessfulbuild".
+         Touching "Debug\LogLibrary.lastbuildstate".
+     1>Done Building Project "D:\Mercurial\cs2103-f09-2c\TaskyV0.1\LogLibrary\LogLibrary\LogLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.97

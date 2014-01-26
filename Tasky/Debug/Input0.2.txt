@@ -1,0 +1,119 @@
+add 'testing case 1' from 21/11/2014 08.00 to 22/11/2014 09.00
+add 'testing case 2' from 21/11/2014 to 22/11/2014
+add 'testing case 3' by 20/11/2014 08.00
+add 'testing case 4' by 20/11/2014
+add 'testing case 5'
+add 'testing case 5' from 20/11//2014 to 22/11/2014
+add 'testing case 6' from 22/11/2014 to 23/11/2014 -m this is a comment
+add 'testing case 7' by 24/11/2014 -m this is a comment
+add 'testing case 8' -m this is a comment
+add 'testing case 9' from tomorrow 10.00 to next monday 10.00
+add 'testing case 10' from tomorrow to next monday
+add 'testing case 11' by next tuesday 10.00
+add 'testing case 12' by next tuesday
+remove 'testing case 5'
+2
+remove 'testing case 4'
+remove 'testing case 1'
+remove 'testing case 2'
+remove 'testing case 3'
+remove 'testing case 5'
+remove 'testing case 6'
+remove 'testing case 7'
+remove 'testing case 8'
+remove 'testing case 9'
+remove 'testing case 10'
+remove 'testing case 11'
+remove 'testing case 12'
+add 'testing case 1' from 21/11/2013 08.00 to 22/11/2013 09.00
+add 'testing case 2' from 21/11/2013 to 22/11/2013
+add 'testing case 3' by 20/11/2013 08.00
+add 'testing case 4' by 20/11/2013
+add 'testing case 5'
+add 'testing case 5' from 19/11/2013 to 20/11/2013
+reschedule 'testing case 1'
+reschedule 'testing case 2' from 23/11/2013 to 24/11/2013
+reschedule 'testing case 2' from 23/11/2013 10.00 to 24/11/2013 10.00
+reschedule 'testing case 2' by 25/11/2013
+reschedule 'testing case 2' by 25/11/2013 10.00
+reschedule 'testing case 3' from 26/11/2013 to 27/11/2013
+rename 'testing case 1' to 'New Task 1'
+rename 'testing case 2' to 'New Task 2'
+mark 'testing case 5' done
+1-2
+mark 'testing case 3' done
+mark 'testing case 3' pending
+mark 'testing case 5' pending
+1
+mark 'testing case 3' pending
+search 'testing case'
+search 'testing case' from 18/11/2013 7.00 to 21/11/2013 7.00
+search 'testing case' from 18/11/2013 to 21/11/2013
+search 'testing case' from 1/7/2013 to 10/7/2012
+display today
+display pending
+display done
+undo
+redo
+add 'clashing case 1' from 1/7/2013 08.00 to 2/7/2013 09.00
+add 'clashing case 2' from 1/7/2013 08.00 to 2/7/2013 09.00
+add 'clashing case 3' from 4/7/2013 08.00 to 5/7/2013 09.00
+add 'clashing case 4' from 4/7/2013 08.00 to 5/7/2013 10.00
+add 'clashing case 5' from 6/7/2013 08.00 to 7/7/2013 12.00
+add 'clashing case 6' from 6/7/2013 08.00 to 7/7/2013 10.00
+add 'clashing case 7' from 8/7/2013 08.00 to 9/7/2013 09.00
+add 'clashing case 8' from 8/7/2013 09.00 to 9/7/2013 09.00
+add 'clashing case 9' from 10/7/2013 08.00 to 11/7/2013 09.00
+add 'clashing case 10' from 10/7/2013 07.00 to 11/7/2013 09.00
+add 'clashing case 11' from 13/7/2011 to 12/7/2011
+add 'clashing case 12' from 14/7/2011 to 12/7/2011
+add 'clashing case 13' from 16/7/2011 to 15/7/2011
+add 'clashing case 14' from 15/7/2011 to 15/7/2011
+add 'clashing case 15' from 17/7/2011 to 18/7/2011
+add 'clashing case 16' from 17/7/2011 to 19/7/2011
+add 'clashing case 17' from 20/7/2011 to 21/7/2011
+add 'clashing case 18' from 20/7/2011 to 22/7/2011
+add 'clashing case 19' from 23/7/2011 to 24/7/2011 -m something happened
+add 'clashing case 20' from 23/7/2011 to 25/7/2011 -m something happened
+add nonexistanttask
+remove 'clashing case'
+remove 'homework'
+remove nonexistanttask
+remove 'clashing case 1'
+remove 'clashing case 2'
+remove 'clashing case 3'
+remove 'clashing case 4'
+remove 'clashing case 5'
+remove 'clashing case 6'
+remove 'clashing case 7'
+remove 'clashing case 8'
+remove 'clashing case 9'
+remove 'clashing case 10'
+remove 'clashing case 11'
+remove 'clashing case 12'
+remove 'clashing case 13'
+remove 'clashing case 14'
+remove 'clashing case 15'
+remove 'clashing case 16'
+remove 'clashing case 17'
+remove 'clashing case 18'
+remove 'clashing case 19'
+remove 'clashing case 20'
+add 'update case 1' from 1/7/2013 08.00 to 2/7/2013 09.00
+add 'update case 2' from 6/7/2013 08.00 to 7/7/2013 12.00
+add 'update case 3' by 20/11/2014
+add 'update case 4'
+reschedule 'update case 1' from 1/7/2013 08.00 to 2/7/2013 09.00
+reschedule 'update case 1' from 3/7/2013 8.00 to 2/7/2013 8.00
+reschedule 'update case 1' from 3/7/2013 to 2/7/2013
+reschedule 'update case 1' by 1/1/2011
+reschedule 'update case 2' by 6/7/2011 9.00
+reschedule 'update case 2' by 6/7/2011
+reschedule 'update case 3' by 1/1/2011
+reschedule 'update case 4' from 3/7/2013 8.00 to 2/7/2013 8.00
+reschedule 'update case 4' from 3/7/2013 to 2/7/2013
+reschedule 'update case 4' by 1/1/2011
+rubbishinputcase
+exit
+
+

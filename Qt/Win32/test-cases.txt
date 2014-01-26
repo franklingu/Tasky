@@ -1,0 +1,25 @@
+add 'homework' from today to tmr
+add 'cs2103' by next mon
+add 'ee220' by next tuesday
+add 'cs2102' from 31/10/13 to 30/11/13
+add 'django' from next mon to next thu
+add 'python' by next sat
+add 'python manage.py' by 1/12/2013
+add 'this project' by 23/12/2013
+add 'twenty tasks' by 24/1/2013
+add 'intern' by 25/1/2013 12:00
+add 'improve feedback' from tdy to 15/11/13
+add 'qt' from tdy to 15/11/13 -m this is comment
+add 'homework2' from today to tmr
+add 'cs2103 project' by next mon
+add 'ee220 lab' by next tuesday
+add 'cs2102 exam' from 31/10/13 to 30/11/13
+add 'django framework' from next mon to next thu
+add 'python interpreter' by next sat
+add 'python manage.py runserver' by 1/12/2013
+add 'this project syncdb' by 23/12/2013
+add 'twenty tasks added' by 24/1/2013
+add 'internship' by 25/1/2013 12:00
+add 'improve feedback on interpreter' from tdy to 15/11/13
+add 'qt qui' from tdy to 15/11/13 -m this is comment
+add 'this is task 20' from next mon to 13/12/13

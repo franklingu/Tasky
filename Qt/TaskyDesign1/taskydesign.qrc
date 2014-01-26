@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo.ico</file>
+        <file>Resources/input_arrow.png</file>
+        <file>Resources/background_main.png</file>
+        <file>Resources/button_close.png</file>
+        <file>Resources/button_close50.png</file>
+        <file>Resources/button_minimize.png</file>
+        <file>Resources/button_minimize50.png</file>
+        <file>Resources/logo.png</file>
+    </qresource>
+</RCC>

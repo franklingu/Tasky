@@ -1,0 +1,42 @@
+add 'testing case 1' from 21/11/2013 08.00 to 22/11/2013 09.00
+add 'testing case 2' from 21/11/2013 to 22/11/2013
+add 'testing case 3' by 20/11/2013 08.00
+add 'testing case 4' by 20/11/2013
+add 'testing case 5'
+add 'testing case 5' from 19/11/2013 to 20/11/2013
+remove 'testing case 5'
+2
+remove 'testing case 4'
+remove 'testing case 1'
+remove 'testing case 2'
+remove 'testing case 3'
+remove 'testing case 5'
+add 'testing case 1' from 21/11/2013 08.00 to 22/11/2013 09.00
+add 'testing case 2' from 21/11/2013 to 22/11/2013
+add 'testing case 3' by 20/11/2013 08.00
+add 'testing case 4' by 20/11/2013
+add 'testing case 5'
+add 'testing case 5' from 19/11/2013 to 20/11/2013
+reschedule 'testing case 1'
+reschedule 'testing case 2' from 23/11/2013 to 24/11/2013
+reschedule 'testing case 2' by 25/11/2013
+reschedule 'testing case 3' from 26/11/2013 to 27/11/2013
+rename 'testing case 1' to 'New Task 1'
+rename 'testing case 2' to 'New Task 2'
+mark 'testing case 5' done
+1-2
+mark 'testing case 3' done
+mark 'testing case 3' pending
+mark 'testing case 5' pending
+1
+search 'testing case'
+search 'testing case' from 18/11/2013 to 21/11/2013
+add 'testing code again' from today to tomorrow
+display today
+display pending
+display done
+undo
+redo
+exit
+
+

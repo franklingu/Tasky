@@ -1,0 +1,3 @@
+TaskyV0.1.exe < input0.2.txt > expected0.2.txt
+TaskyV0.1.exe < input0.2.txt > output0.2.txt
+fc expected0.2.txt output0.2.txt

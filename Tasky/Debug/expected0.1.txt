@@ -1,0 +1,527 @@
+Command: 
+Success! Task added
+Type: Timed task
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Type: Timed task
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Deadline task
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2013 08:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Deadline task
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Timed task
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Enter task number to remove:
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Type: Timed task
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Timed task
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Deadline task
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Timed task
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Timed task
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2013 00:00:00
+End time: 22/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Deadline task
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2013 08:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Timed task
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Type: Timed task
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Deadline task
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2013 08:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Deadline task
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Timed task
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Type: Timed task
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+Type: Floating task
+Title: testing case 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task updated
+Type: Timed task
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2013 00:00:00
+End time: 22/11/2013 00:00:00
+Comment: 
+
+Type: Timed task
+Title: testing case 2
+Status: Pending
+Start time: 23/11/2013 00:00:00
+End time: 24/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Type: Timed task
+Title: testing case 2
+Status: Pending
+Start time: 23/11/2013 00:00:00
+End time: 24/11/2013 00:00:00
+Comment: 
+
+Type: Deadline task
+Title: testing case 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Type: Deadline task
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2013 08:00:00
+Comment: 
+
+Type: Timed task
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Type: Floating task
+Title: testing case 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Type: Floating task
+Title: New Task 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task updated
+Type: Deadline task
+Title: testing case 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 00:00:00
+Comment: 
+
+Type: Deadline task
+Title: New Task 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Enter task number to mark:
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Type: Timed task
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Type: Floating task
+Title: testing case 5
+Status: Done
+Start time: None
+End time: None
+Comment: 
+
+Type: Timed task
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Type: Timed task
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Type: Timed task
+Title: testing case 3
+Status: Done
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Enter task number to mark:
+Type: Floating task
+Title: testing case 5
+Status: Done
+Start time: None
+End time: None
+Comment: 
+
+Type: Timed task
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Search successful
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Type: Deadline task
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Type: Timed task
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Type: Timed task
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Search successful
+Type: Deadline task
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Type: Timed task
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Timed task
+Title: testing code again
+Status: Pending
+Start time: 23/10/2013 00:00:00
+End time: 24/10/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Tasks displayed
+Type: Timed task
+Title: testing code again
+Status: Pending
+Start time: 23/10/2013 00:00:00
+End time: 24/10/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Tasks displayed
+Type: Floating task
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Type: Floating task
+Title: New Task 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Type: Deadline task
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Type: Deadline task
+Title: New Task 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 00:00:00
+Comment: 
+
+Type: Timed task
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+Type: Timed task
+Title: testing code again
+Status: Pending
+Start time: 23/10/2013 00:00:00
+End time: 24/10/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Tasks displayed
+Type: Timed task
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Type: Timed task
+Title: testing code again
+Status: Pending
+Start time: 23/10/2013 00:00:00
+End time: 24/10/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Type: Timed task
+Title: testing code again
+Status: Pending
+Start time: 23/10/2013 00:00:00
+End time: 24/10/2013 00:00:00
+Comment: 
+
+
+Command: 
+The program will now exit, Goodbye!Success! File saved
+
+Press any key to continue . . . 

@@ -1,0 +1,1315 @@
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2014 08:00:00
+End time: 22/11/2014 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2014 00:00:00
+End time: 22/11/2014 00:00:00
+Comment: 
+
+Clashes:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2014 08:00:00
+End time: 22/11/2014 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2014 08:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2014 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: testing case 5
+Status: Pending
+Start time: 20/11/2014 00:00:00
+End time: 22/11/2014 00:00:00
+Comment: 
+
+Clashes:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2014 08:00:00
+End time: 22/11/2014 09:00:00
+Comment: 
+
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2014 00:00:00
+End time: 22/11/2014 00:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: testing case 6
+Status: Pending
+Start time: 22/11/2014 00:00:00
+End time: 23/11/2014 00:00:00
+Comment: -m this is a comment
+
+Clashes:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2014 08:00:00
+End time: 22/11/2014 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 7
+Status: Pending
+Start time: None
+End time: 24/11/2014 00:00:00
+Comment: -m this is a comment
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 8
+Status: Pending
+Start time: None
+End time: None
+Comment: -m this is a comment
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 9
+Status: Pending
+Start time: 03/11/2013 10:00:00
+End time: 04/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: testing case 10
+Status: Pending
+Start time: 03/11/2013 00:00:00
+End time: 04/11/2013 10:00:00
+Comment: 
+
+Clashes:
+
+Title: testing case 9
+Status: Pending
+Start time: 03/11/2013 10:00:00
+End time: 04/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 11
+Status: Pending
+Start time: None
+End time: 05/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 12
+Status: Pending
+Start time: None
+End time: 05/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Enter task number to remove:
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 5
+Status: Pending
+Start time: 20/11/2014 00:00:00
+End time: 22/11/2014 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 5
+Status: Pending
+Start time: 20/11/2014 00:00:00
+End time: 22/11/2014 00:00:00
+Comment: 
+
+Tasks removing error:
+
+None
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2014 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2014 08:00:00
+End time: 22/11/2014 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2014 00:00:00
+End time: 22/11/2014 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2014 08:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 6
+Status: Pending
+Start time: 22/11/2014 00:00:00
+End time: 23/11/2014 00:00:00
+Comment: -m this is a comment
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 7
+Status: Pending
+Start time: None
+End time: 24/11/2014 00:00:00
+Comment: -m this is a comment
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 8
+Status: Pending
+Start time: None
+End time: None
+Comment: -m this is a comment
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 9
+Status: Pending
+Start time: 03/11/2013 10:00:00
+End time: 04/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 10
+Status: Pending
+Start time: 03/11/2013 00:00:00
+End time: 04/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 11
+Status: Pending
+Start time: None
+End time: 05/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: testing case 12
+Status: Pending
+Start time: None
+End time: 05/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2013 00:00:00
+End time: 22/11/2013 00:00:00
+Comment: 
+
+Clashes:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2013 08:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task rescheduled:
+
+Title: testing case 1
+Status: Pending
+Start time: 21/11/2013 08:00:00
+End time: 22/11/2013 09:00:00
+Comment: 
+
+Title: testing case 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task rescheduled:
+
+Title: testing case 2
+Status: Pending
+Start time: 21/11/2013 00:00:00
+End time: 22/11/2013 00:00:00
+Comment: 
+
+Title: testing case 2
+Status: Pending
+Start time: 23/11/2013 00:00:00
+End time: 24/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task rescheduled:
+
+Title: testing case 2
+Status: Pending
+Start time: 23/11/2013 00:00:00
+End time: 24/11/2013 00:00:00
+Comment: 
+
+Title: testing case 2
+Status: Pending
+Start time: 23/11/2013 10:00:00
+End time: 24/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task rescheduled:
+
+Title: testing case 2
+Status: Pending
+Start time: 23/11/2013 10:00:00
+End time: 24/11/2013 10:00:00
+Comment: 
+
+Title: testing case 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task rescheduled:
+
+Title: testing case 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 00:00:00
+Comment: 
+
+Title: testing case 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task rescheduled:
+
+Title: testing case 3
+Status: Pending
+Start time: None
+End time: 20/11/2013 08:00:00
+Comment: 
+
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task renamed:
+
+Title: testing case 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Title: New Task 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task updated
+Task renamed:
+
+Title: testing case 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 10:00:00
+Comment: 
+
+Title: New Task 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 10:00:00
+Comment: 
+
+
+Command: 
+Enter task number to mark:
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 5
+Status: Pending
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Tasks marked:
+
+Title: testing case 5
+Status: Done
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Tasks marking error:
+
+None
+
+
+Command: 
+Success! Task(s) marked
+Tasks marked:
+
+Title: testing case 3
+Status: Done
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Tasks marked:
+
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Enter task number to mark:
+Title: testing case 5
+Status: Done
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task(s) marked
+Tasks marked:
+
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Tasks marking error:
+
+None
+
+
+Command: 
+Warning! There is no change in the status
+Tasks marking error:
+
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Error! Unexpected error while interpreting search
+
+Command: 
+Success! Interpreted search
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Interpreted search
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Error! Unexpected error while interpreting search
+
+Command: 
+Warning! No tasks to display
+
+Command: 
+Success! Tasks displayed
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Title: New Task 1
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 4
+Status: Pending
+Start time: None
+End time: 20/11/2013 00:00:00
+Comment: 
+
+Title: New Task 2
+Status: Pending
+Start time: None
+End time: 25/11/2013 10:00:00
+Comment: 
+
+Title: testing case 3
+Status: Pending
+Start time: 26/11/2013 00:00:00
+End time: 27/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Tasks displayed
+Title: testing case 5
+Status: Done
+Start time: 19/11/2013 00:00:00
+End time: 20/11/2013 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task updated
+Undo Tasks updated:
+
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 5
+Status: Done
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task updated
+Redo Tasks updated:
+
+Title: testing case 5
+Status: Done
+Start time: None
+End time: None
+Comment: 
+
+Title: testing case 5
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 1
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 2
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 1
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 3
+Status: Pending
+Start time: 04/07/2013 08:00:00
+End time: 05/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 4
+Status: Pending
+Start time: 04/07/2013 08:00:00
+End time: 05/07/2013 10:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 3
+Status: Pending
+Start time: 04/07/2013 08:00:00
+End time: 05/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 5
+Status: Pending
+Start time: 06/07/2013 08:00:00
+End time: 07/07/2013 12:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 6
+Status: Pending
+Start time: 06/07/2013 08:00:00
+End time: 07/07/2013 10:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 5
+Status: Pending
+Start time: 06/07/2013 08:00:00
+End time: 07/07/2013 12:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 7
+Status: Pending
+Start time: 08/07/2013 08:00:00
+End time: 09/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 8
+Status: Pending
+Start time: 08/07/2013 09:00:00
+End time: 09/07/2013 09:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 7
+Status: Pending
+Start time: 08/07/2013 08:00:00
+End time: 09/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 9
+Status: Pending
+Start time: 10/07/2013 08:00:00
+End time: 11/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 10
+Status: Pending
+Start time: 10/07/2013 07:00:00
+End time: 11/07/2013 09:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 9
+Status: Pending
+Start time: 10/07/2013 08:00:00
+End time: 11/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Error! Unexpected error while interpreting add
+
+Command: 
+Error! Unexpected error while interpreting add
+
+Command: 
+Error! Unexpected error while interpreting add
+
+Command: 
+Error! Unexpected error while interpreting add
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 15
+Status: Pending
+Start time: 17/07/2011 00:00:00
+End time: 18/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 16
+Status: Pending
+Start time: 17/07/2011 00:00:00
+End time: 19/07/2011 00:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 15
+Status: Pending
+Start time: 17/07/2011 00:00:00
+End time: 18/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 17
+Status: Pending
+Start time: 20/07/2011 00:00:00
+End time: 21/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 18
+Status: Pending
+Start time: 20/07/2011 00:00:00
+End time: 22/07/2011 00:00:00
+Comment: 
+
+Clashes:
+
+Title: clashing case 17
+Status: Pending
+Start time: 20/07/2011 00:00:00
+End time: 21/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: clashing case 19
+Status: Pending
+Start time: 23/07/2011 00:00:00
+End time: 24/07/2011 00:00:00
+Comment: -m something happened
+
+
+Command: 
+Warning! Task clashes with existing ones
+Task Description:
+
+Title: clashing case 20
+Status: Pending
+Start time: 23/07/2011 00:00:00
+End time: 25/07/2011 00:00:00
+Comment: -m something happened
+
+Clashes:
+
+Title: clashing case 19
+Status: Pending
+Start time: 23/07/2011 00:00:00
+End time: 24/07/2011 00:00:00
+Comment: -m something happened
+
+
+Command: 
+Error! Unexpected error while interpreting add
+
+Command: 
+Warning! No such task
+
+Command: 
+Warning! No such task
+
+Command: 
+Error! Unexpected error while interpreting remove
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 1
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 2
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 3
+Status: Pending
+Start time: 04/07/2013 08:00:00
+End time: 05/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 4
+Status: Pending
+Start time: 04/07/2013 08:00:00
+End time: 05/07/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 5
+Status: Pending
+Start time: 06/07/2013 08:00:00
+End time: 07/07/2013 12:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 6
+Status: Pending
+Start time: 06/07/2013 08:00:00
+End time: 07/07/2013 10:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 7
+Status: Pending
+Start time: 08/07/2013 08:00:00
+End time: 09/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 8
+Status: Pending
+Start time: 08/07/2013 09:00:00
+End time: 09/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 9
+Status: Pending
+Start time: 10/07/2013 08:00:00
+End time: 11/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 10
+Status: Pending
+Start time: 10/07/2013 07:00:00
+End time: 11/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Warning! No such task
+
+Command: 
+Warning! No such task
+
+Command: 
+Warning! No such task
+
+Command: 
+Warning! No such task
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 15
+Status: Pending
+Start time: 17/07/2011 00:00:00
+End time: 18/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 16
+Status: Pending
+Start time: 17/07/2011 00:00:00
+End time: 19/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 17
+Status: Pending
+Start time: 20/07/2011 00:00:00
+End time: 21/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 18
+Status: Pending
+Start time: 20/07/2011 00:00:00
+End time: 22/07/2011 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 19
+Status: Pending
+Start time: 23/07/2011 00:00:00
+End time: 24/07/2011 00:00:00
+Comment: -m something happened
+
+
+Command: 
+Success! Task removed
+Tasks removed:
+
+Title: clashing case 20
+Status: Pending
+Start time: 23/07/2011 00:00:00
+End time: 25/07/2011 00:00:00
+Comment: -m something happened
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: update case 1
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: update case 2
+Status: Pending
+Start time: 06/07/2013 08:00:00
+End time: 07/07/2013 12:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: update case 3
+Status: Pending
+Start time: None
+End time: 20/11/2014 00:00:00
+Comment: 
+
+
+Command: 
+Success! Task added
+Task Description:
+
+Title: update case 4
+Status: Pending
+Start time: None
+End time: None
+Comment: 
+
+
+Command: 
+Warning! The new data is the same as the old data
+Task rescheduled:
+
+Title: update case 1
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+Title: update case 1
+Status: Pending
+Start time: 01/07/2013 08:00:00
+End time: 02/07/2013 09:00:00
+Comment: 
+
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Error! Unexpected error while interpreting reschedule
+
+Command: 
+Warning! Wrong input
+
+Command: 
+The program will now exit, Goodbye!
+Success! File saved
+
+Press any key to continue . . . 

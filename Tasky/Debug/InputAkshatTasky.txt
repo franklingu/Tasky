@@ -1,0 +1,23 @@
+add 'meeting' from 21/11/2014 08.00 to 22/11/2014 09.00
+add 'internship' from today to 22/11/2014
+add 'prepare for exams' by 20/11/2013 08.00
+add 'get a haircut' by 20/11/2013
+add 'play batman'
+add 'finish advanced challenges in batman'
+add 'EE 2021 homework' by 9/11/2013 -m check with asawari
+add 'study finish EE2020' by 20/11/2013
+add 'buy shoes'
+add 'buy milk and cookies'
+add 'run 10k' from tomorrow to next monday
+add 'get a timing of 50 min' by next tuesday 10.00
+add 'finish refactoring' by next tuesday
+add 'clean room'
+add 'fix phone LCD' by next wednesday
+add 'buy SSD'
+add 'practise VHDL' by next wednesday
+add 'fix GPU overclocking'
+add 'do laundry' by next sunday
+add 'take adidas medal from karan'
+add 'study 2271' by 22/11/2013
+exit
+

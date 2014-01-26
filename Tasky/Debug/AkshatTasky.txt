@@ -1,0 +1,168 @@
+Type: Floating task
+Title: play batman
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: finish advanced challenges in batman
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: buy shoes
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: buy milk and cookies
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: clean room
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: buy SSD
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: fix GPU overclocking
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: take adidas medal from karan
+Status: Pending
+Start: None
+End: None
+Comment: 
+
+Type: Floating task
+Title: v0.4 demo' by 13/12/2013 5.00AM -m'TASKYTASKYTASKY
+Status: Pending
+Start: None
+End: None
+Comment: TASKYTASKYTASKY'
+
+Type: Deadline task
+Title: prepare for exams
+Status: Pending
+Start: None
+End: 20/11/2013 08:00:00
+Comment: 
+
+Type: Deadline task
+Title: get a haircut
+Status: Pending
+Start: None
+End: 20/11/2013 00:00:00
+Comment: 
+
+Type: Deadline task
+Title: EE 2021 homework
+Status: Pending
+Start: None
+End: 09/11/2013 00:00:00
+Comment: check with asawari
+
+Type: Deadline task
+Title: study finish EE2020
+Status: Pending
+Start: None
+End: 20/11/2013 00:00:00
+Comment: 
+
+Type: Deadline task
+Title: get a timing of 50 min
+Status: Pending
+Start: None
+End: 12/11/2013 10:00:00
+Comment: 
+
+Type: Deadline task
+Title: finish refactoring
+Status: Pending
+Start: None
+End: 12/11/2013 10:00:00
+Comment: 
+
+Type: Deadline task
+Title: fix phone LCD
+Status: Pending
+Start: None
+End: 13/11/2013 10:00:00
+Comment: 
+
+Type: Deadline task
+Title: practise VHDL
+Status: Pending
+Start: None
+End: 13/11/2013 10:00:00
+Comment: 
+
+Type: Deadline task
+Title: do laundry
+Status: Pending
+Start: None
+End: 10/11/2013 10:00:00
+Comment: 
+
+Type: Deadline task
+Title: study 2271
+Status: Pending
+Start: None
+End: 22/11/2013 00:00:00
+Comment: 
+
+Type: Deadline task
+Title: v0.4 demo
+Status: Pending
+Start: None
+End: 12/12/2013 05:00:00
+Comment: 
+
+Type: Deadline task
+Title: v0.4 demo
+Status: Pending
+Start: None
+End: 13/12/2013 05:00:00
+Comment: TASKYTASKYTASKY
+
+Type: Timed task
+Title: meeting
+Status: Pending
+Start: 21/11/2014 08:00:00
+End: 22/11/2014 09:00:00
+Comment: 
+
+Type: Timed task
+Title: internship
+Status: Pending
+Start: 08/11/2013 00:00:00
+End: 22/11/2014 00:00:00
+Comment: 
+
+Type: Timed task
+Title: run 10k
+Status: Pending
+Start: 09/11/2013 00:00:00
+End: 11/11/2013 00:00:00
+Comment: 
+
